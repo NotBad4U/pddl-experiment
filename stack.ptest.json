@@ -1,0 +1,9 @@
+{
+    "defaultDomain": "stackDomain.pddl",
+    "defaultOptions": "",
+    "cases": [
+        {
+            "problem": "stackProblem.pddl"
+        }
+    ]
+}
