@@ -1,0 +1,9 @@
+{
+    "defaultDomain": "hanoi-domain.pddl",
+    "defaultOptions": "",
+    "cases": [
+        {
+            "problem": "hanoi-problem.pddl"
+        }
+    ]
+}
